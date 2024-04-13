@@ -1,4 +1,4 @@
-Online Repairing Availability  pharmacy is a web-based page. This application provides information for daily consumption of Items. This application provides user login to the customer. And admin can get the all expired Items information and he /she can able to see all orders information of clients.
+Online Repairing Availability  Application is a web-based page. This application provides all the services to all cutomers. This application provides user login to the customer.  information and he /she can able to see all services information of clients.
 User interfaces are user friendly and attractive. It takes very less time for the services to get use  with the portal.
 
 ONLINE REPAIRING AVAILABILITY:
